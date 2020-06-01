@@ -20,7 +20,7 @@ Clone the repo into ```~/Projects```
 git clone git@github.com:saschaeggi/drupal-docksal-starterkit.git && cd drupal-docksal-starterkit
 ```
 
-### Build containers
+### Let's build the app
 ```
 fin init
 ```
