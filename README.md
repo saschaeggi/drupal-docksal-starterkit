@@ -17,7 +17,7 @@ Install Docksal: https://docksal.io/
 ### Clone repo
 Clone the repo into ```~/Projects```
 ```
-git clone git@github.com:saschaeggi/drupal-docksal-starterkit.git drupal-docksal-starterkit
+git clone git@github.com:saschaeggi/drupal-docksal-starterkit.git && cd drupal-docksal-starterkit
 ```
 
 ### Build containers
