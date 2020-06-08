@@ -154,6 +154,30 @@ cd drupal/web/themes/frontend/
 npm run scaffold
 ```
 
+Run Storybook
+```
+cd drupal/web/themes/frontend/
+npm run storybook
+```
+
+Update Storybook
+```
+cd drupal/web/themes/frontend/
+npx npm-check-updates '/storybook/' -u && npm install
+```
+
+Running `npm run storybook-js` will generate the same folder structure of our storybook components but with the JS wrapped in a Drupal behaviour in a folder dist/components in your Drupal theme.
+```
+cd drupal/web/themes/frontend/
+npm run storybook-js
+```
+
+Running `npm run storybook-css` will generate the css file with webpack
+```
+cd drupal/web/themes/frontend/
+npm run storybook-css
+```
+
 ---
 
 ## Customization
