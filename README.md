@@ -2,6 +2,8 @@
 
 A Drupal Starterkit with GraphQL, GraphQL Twig, Gin Future UI, Minimal Frontend Setup with Webpack and Vanilla JS/Vue running on Docksal (Docker).
 
+> ⚠️ REPLACED BY https://github.com/saschaeggi/drupal-lando-starterkit
+
 ## Prerequisites
 
 ### Get Docker (for Mac/Windows)
