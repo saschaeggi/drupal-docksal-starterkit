@@ -1,0 +1,7 @@
+.menu-local-task {
+  background-color: lime;
+}
+
+.menu-local-task.is-active {
+  background-color: yellow;
+}

@@ -1,0 +1,6 @@
+{{ attach_library('frontend/menu-local-task') }}
+{% include "@storybook/menu-local-task/menu-local-task.twig" with {
+  "attributes": attributes,
+  "is_active": is_active,
+  "link": link,
+} %}

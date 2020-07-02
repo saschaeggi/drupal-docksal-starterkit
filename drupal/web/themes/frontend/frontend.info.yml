@@ -36,6 +36,6 @@ component-libraries:
   modules:
     paths:
       - src/modules
-  # storybook:
-  #   paths:
-  #     - ../PATHTO/storybook/twig
+  storybook:
+    paths:
+      - src/components
